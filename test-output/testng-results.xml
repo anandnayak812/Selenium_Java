@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-11-25T15:46:40 IST" name="Default suite" finished-at="2023-11-25T15:46:45 IST" duration-ms="5711">
+    <groups>
+    </groups>
+    <test started-at="2023-11-25T15:46:40 IST" name="Default test" finished-at="2023-11-25T15:46:45 IST" duration-ms="5711">
+      <class name="Day7.Authentication">
+        <test-method signature="basicAuthentication()[pri:1, instance:Day7.Authentication@66498326]" started-at="2023-11-25T15:46:40 IST" name="basicAuthentication" finished-at="2023-11-25T15:46:43 IST" duration-ms="3116" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- basicAuthentication -->
+        <test-method signature="DigestAuthentication()[pri:2, instance:Day7.Authentication@66498326]" started-at="2023-11-25T15:46:43 IST" name="DigestAuthentication" finished-at="2023-11-25T15:46:44 IST" duration-ms="1404" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DigestAuthentication -->
+        <test-method signature="PreemitiveAuthentication()[pri:3, instance:Day7.Authentication@66498326]" started-at="2023-11-25T15:46:44 IST" name="PreemitiveAuthentication" finished-at="2023-11-25T15:46:45 IST" duration-ms="1159" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PreemitiveAuthentication -->
+      </class> <!-- Day7.Authentication -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
